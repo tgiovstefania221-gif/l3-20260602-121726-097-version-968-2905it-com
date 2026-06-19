@@ -1,5 +1,0 @@
-parsed_movies=2000
-category_count=10
-video_source_count=20
-cover_rule=top-level 1.jpg to 150.jpg, reused cyclically according to movie sequence
-html_content=movie cards and detail bodies are written directly into static HTML
